@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* { margin: 100px;
+padding: 10px;}
+
+body { background-image: url("construction.jpg");
+	background-position: center;
+background-repeat: no-repeat;
+  background-size: 1000px 900px;
+	
+	
+
+}
